@@ -6,3 +6,4 @@ Starting webhook relay agent...
 2021-12-28 12:41:24.990	INFO	webhook request relayed	{"destination": "http://localhost:8080/github-webhook/", "method": "POST", "bucket": "github-jenkins", "status": "200 OK", "retries": 0}
 2021-12-28 12:41:57.881	INFO	webhook request relayed	{"destination": "http://localhost:8080/github-webhook/", "method": "POST", "bucket": "github-jenkins", "status": "200 OK", "retries": 0}
 2021-12-28 12:42:48.029	INFO	webhook request relayed	{"destination": "http://localhost:8080/github-webhook/", "method": "POST", "bucket": "github-jenkins", "status": "200 OK", "retries": 0}
+2021-12-28 13:29:30.711	INFO	webhook request relayed	{"destination": "http://localhost:8080/github-webhook/", "method": "POST", "bucket": "github-jenkins", "status": "200 OK", "retries": 0}
